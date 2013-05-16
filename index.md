@@ -1,5 +1,8 @@
 ---
-layout: posts
+layout: default
+title: test
 ---
 
-## toppage
+test
+===============
+this is test.
