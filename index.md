@@ -1,10 +1,7 @@
----
-layout: default
-title: test
----
+# 概要
 
-test
-===============
-this is test.
+ここにやりたいことの概要を書いておいて
 
-hogehoge is hogehoge
+# ここに意図ややるといいことを書いとく
+
+的な感じ？
